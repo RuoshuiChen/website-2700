@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box
+}
+
+body{
+    font-size: 16px;
+    width: 80vw;
+    margin: 0 auto;
+    
+}
+main{
+    margin: 20px 0;
+    
+}
+html{
+    font-size: 62.5%;
+    
+}
+
+
+.header{
+    color:coral;
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 2rem;
+    border: 0.5rem solid gray
+}
+
+hr{
+    width: auto;
+    border-style: dotted;
+}
+
+.project{
+    color: darkslategrey;
+    text-transform: full-width;
+    list-style: circle;
+    display:flow-root;
+    height: auto;
+    padding: 0 2rem;
+    margin: 0 auto;
+}
+
+
+a:hover{
+    color:deeppink;
+    background-color: blanchedalmond
+}
+
+
+nav{
+    text-align: center;
+    padding: 2rem;
+    
+    
+}
+
+aside{
+    width: 50%;
+    float: right;
+    padding: 0 2rem;
+    margin: 0 auto;
+    
+    
+}
+
+footer{
+    background-color:deepskyblue
+}
+
+a{
+    text-decoration: none;
+    margin: 0 2rem;
+    
+}
+.selfPhoto{
+   width: 50%;
+    margin: 0 auto;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 1rem 3rem black;
+    height: auto; 
+    float:left
+}
+.backgroudPho{
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 1rem 3rem black;
+    height: auto;
+    padding: ;
+    float:right
+}
+
+.drum{
+    width: 100%
+}
+
